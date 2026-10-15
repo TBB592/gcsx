@@ -1,0 +1,190 @@
+[
+  {
+    "slug": "engineering-mathematics",
+    "title": "工程数学",
+    "category": "数学",
+    "symbol": "∑",
+    "description": "整理工程数学学习过程中的推导与笔记，供阅读、复习和交流。",
+    "pdf": "assets/engineering-mathematics.pdf",
+    "previewPrefix": "assets/pages/page",
+    "pages": [
+      {
+        "number": 1,
+        "src": "assets/pages/page-1.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 2,
+        "src": "assets/pages/page-2.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 3,
+        "src": "assets/pages/page-3.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 4,
+        "src": "assets/pages/page-4.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 5,
+        "src": "assets/pages/page-5.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 6,
+        "src": "assets/pages/page-6.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 7,
+        "src": "assets/pages/page-7.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 8,
+        "src": "assets/pages/page-8.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 9,
+        "src": "assets/pages/page-9.png",
+        "width": 1489,
+        "height": 2105
+      }
+    ],
+    "bytes": 156481,
+    "sizeLabel": "153 KB"
+  },
+  {
+    "slug": "university-physics-2",
+    "title": "大学物理下册",
+    "category": "物理学",
+    "symbol": "φ",
+    "description": "整理大学物理下册的学习资料与笔记，供阅读、复习和交流。",
+    "pdf": "assets/university-physics-2.pdf",
+    "previewPrefix": "assets/physics-pages/page",
+    "pages": [
+      {
+        "number": 1,
+        "src": "assets/physics-pages/page-01.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 2,
+        "src": "assets/physics-pages/page-02.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 3,
+        "src": "assets/physics-pages/page-03.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 4,
+        "src": "assets/physics-pages/page-04.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 5,
+        "src": "assets/physics-pages/page-05.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 6,
+        "src": "assets/physics-pages/page-06.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 7,
+        "src": "assets/physics-pages/page-07.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 8,
+        "src": "assets/physics-pages/page-08.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 9,
+        "src": "assets/physics-pages/page-09.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 10,
+        "src": "assets/physics-pages/page-10.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 11,
+        "src": "assets/physics-pages/page-11.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 12,
+        "src": "assets/physics-pages/page-12.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 13,
+        "src": "assets/physics-pages/page-13.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 14,
+        "src": "assets/physics-pages/page-14.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 15,
+        "src": "assets/physics-pages/page-15.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 16,
+        "src": "assets/physics-pages/page-16.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 17,
+        "src": "assets/physics-pages/page-17.png",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 18,
+        "src": "assets/physics-pages/page-18.png",
+        "width": 1489,
+        "height": 2105
+      }
+    ],
+    "bytes": 676730,
+    "sizeLabel": "661 KB"
+  }
+]

@@ -1,31 +1,43 @@
-# 工程数学网站
+# 学科学习笔记
 
-工程数学学习笔记网站，支持 PDF 在线阅读、下载与手机浏览。纯静态 HTML/CSS，无后端。
+一个纯静态学习资料网站。目前包含工程数学、大学物理下册。无后端、数据库或登录系统。
 
-## GitHub Pages 部署
+## 页面
 
-将本目录内容上传到仓库根目录，然后在 Settings → Pages 中选择 Deploy from a branch，分支选择 main，目录选择 /(root)，保存。等待发布完成，以 GitHub Pages 页面给出的实际网址为准。
+- index.html：学科首页，含QQ群交流入口和全站累计阅览量。
+- engineering-mathematics.html：工程数学阅读页。
+- university-physics-2.html：大学物理下册阅读页。
+- assets/：PDF原文件、逐页PNG预览及原始QQ群二维码。
+- counter.html / counter.js：既有第三方计数功能，仅首页加载，固定计数地址未变。
 
-## 更新笔记
+所有资料页使用静态图片预览，不依赖PDF插件或JavaScript，支持放大、页码跳转、查看原图、下载PDF及切换学科。阅览计数依赖不蒜子服务；其不可用不会影响资料阅读。
 
-替换 assets/engineering-mathematics.pdf，并根据实际文件大小更新 index.html 中的说明。提交后 GitHub Pages 会重新部署。
+## 新增学科或更新资料
 
-## 本地查看
+subjects.json 是统一资料清单。新增一条记录，指定唯一英文 slug、中文标题、学科分类、说明、源PDF相对路径、公开PDF路径和独立预览图片前缀。
 
-在浏览器打开 index.html。如果内嵌 PDF 不显示，使用页面的“独立打开 PDF”或“下载 PDF”。
+建议预览前缀按学科使用不同目录，例如 assets/chemistry-pages/page。不要让不同学科共享预览目录或覆盖已有公共文件。
 
-## 兼容阅读预览
+安装 Node.js 和 Poppler（含 pdfinfo、pdftoppm），然后在仓库根目录执行：
 
-阅读区使用由原 PDF 以 180 DPI 导出的 9 张 PNG 图片，不依赖浏览器 PDF 插件、JavaScript 或外部 CDN。支持滚动阅读、跳页和放大。图片预览不可选择文字；全文搜索和复制请使用原始 PDF。
+```powershell
+node scripts/build-notes.cjs --source-root "你的学习笔记文件夹" --pdf-tools "Poppler的bin目录" --render
+```
 
-更换 PDF 时必须同步重新生成 assets/pages/page-N.png，并更新 index.html 中的页码、图片尺寸及总页数，避免预览与下载版本不一致。
+source 字段相对于 --source-root。脚本复制最新PDF，以180 DPI重新生成预览，自动读取页数与图片尺寸，并输出首页、独立资料页及 subjects-manifest.json。只替换各清单对应的PDF和该前缀匹配的生成图片，不修改原始学习笔记。
 
-## 累计阅览量
+若PDF和预览已经齐全，仅更新页面内容可执行：
 
-使用不蒜子公共计数服务。首页每次加载一个固定地址的 counter.html，计数脚本只发一次请求，显示该固定页面的 page_pv，所有设备共享计数。首页刷新会再计数；锚点跳转、放大、阅读翻页不计数。固定页面路径防止不同分享参数分裂统计，也不会混入同域名其他项目。
+```powershell
+node scripts/build-notes.cjs
+```
 
-从接入后开始统计（验证访问也会计入），无历史访问量补录。统计服务被拦截、禁用JavaScript或网络中断可能漏记；异常不影响PDF预览和下载。服务会收到统计请求的网络信息与固定阅读计数页来源。网址迁移可能产生新计数，公共服务不提供本项目可控的数据备份或准确性保证。
+脚本仅在维护时运行，访客访问网站无需 Node.js 或任何后端。提交生成的HTML、PDF和预览图片后，GitHub Pages 自动发布；仅修改本机文件不会更新网站。
 
-## 提问与交流
+## GitHub Pages
 
-网站展示QQ群号1124683202及站长提供的原始群二维码 assets/qq-group.jpg，供访客进群提问或反馈需求。提供原图及下载入口；二维码失效或群信息变更时请更新对应图片和页面文案。
+发布源为 main 分支 /（根目录）。保留 .nojekyll。原工程数学PDF路径以及首页 #reader 入口继续可用。
+
+## 交流
+
+QQ群：1124683202。群二维码由站长提供，位于 assets/qq-group.jpg。二维码失效时请更新图片。
