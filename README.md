@@ -41,3 +41,7 @@ node scripts/build-notes.cjs
 ## 交流
 
 QQ群：1124683202。群二维码由站长提供，位于 assets/qq-group.jpg。二维码失效时请更新图片。
+
+## 紫色主题与输入页码跳转
+
+阅读页通过 reader.js 在浏览器内校验整数页码并滚动到对应预览，支持回车。脚本无需后端。未启用 JavaScript 时仍能滚动阅读，跳转表单会隐藏。修改生成器后运行 node scripts/build-notes.cjs 更新静态页面。
