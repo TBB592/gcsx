@@ -8,7 +8,8 @@
     "source": "Latax工程数学/工程数学.pdf",
     "pdf": "assets/engineering-mathematics.pdf",
     "previewPrefix": "assets/pages/page",
-    "area": "science"
+    "area": "science",
+    "type": "courses"
   },
   {
     "slug": "university-physics-2",
@@ -19,6 +20,7 @@
     "source": "Latax大学物理下册/大学物理下册.pdf",
     "pdf": "assets/university-physics-2.pdf",
     "previewPrefix": "assets/physics-pages/page",
-    "area": "science"
+    "area": "science",
+    "type": "courses"
   }
 ]

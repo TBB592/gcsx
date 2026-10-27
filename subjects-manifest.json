@@ -8,6 +8,7 @@
     "pdf": "assets/engineering-mathematics.pdf",
     "previewPrefix": "assets/pages/page",
     "area": "science",
+    "type": "courses",
     "pages": [
       {
         "number": 1,
@@ -76,6 +77,7 @@
     "pdf": "assets/university-physics-2.pdf",
     "previewPrefix": "assets/physics-pages/page",
     "area": "science",
+    "type": "courses",
     "pages": [
       {
         "number": 1,
