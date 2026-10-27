@@ -7,6 +7,7 @@
     "description": "整理工程数学学习过程中的推导与笔记，供阅读、复习和交流。",
     "pdf": "assets/engineering-mathematics.pdf",
     "previewPrefix": "assets/pages/page",
+    "area": "science",
     "pages": [
       {
         "number": 1,
@@ -74,6 +75,7 @@
     "description": "整理大学物理下册的学习资料与笔记，供阅读、复习和交流。",
     "pdf": "assets/university-physics-2.pdf",
     "previewPrefix": "assets/physics-pages/page",
+    "area": "science",
     "pages": [
       {
         "number": 1,
