@@ -12,61 +12,37 @@
     "pages": [
       {
         "number": 1,
-        "src": "assets/pages/page-1.png",
+        "src": "assets/pages/page-1.png?v=647d51e871c4",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 2,
-        "src": "assets/pages/page-2.png",
+        "src": "assets/pages/page-2.png?v=29a6b6e4a78c",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 3,
-        "src": "assets/pages/page-3.png",
+        "src": "assets/pages/page-3.png?v=a1a45e8b974a",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 4,
-        "src": "assets/pages/page-4.png",
+        "src": "assets/pages/page-4.png?v=9f0e05c23ac0",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 5,
-        "src": "assets/pages/page-5.png",
-        "width": 1489,
-        "height": 2105
-      },
-      {
-        "number": 6,
-        "src": "assets/pages/page-6.png",
-        "width": 1489,
-        "height": 2105
-      },
-      {
-        "number": 7,
-        "src": "assets/pages/page-7.png",
-        "width": 1489,
-        "height": 2105
-      },
-      {
-        "number": 8,
-        "src": "assets/pages/page-8.png",
-        "width": 1489,
-        "height": 2105
-      },
-      {
-        "number": 9,
-        "src": "assets/pages/page-9.png",
+        "src": "assets/pages/page-5.png?v=3712f36a6802",
         "width": 1489,
         "height": 2105
       }
     ],
-    "bytes": 156481,
-    "sizeLabel": "153 KB"
+    "bytes": 125346,
+    "sizeLabel": "122 KB"
   },
   {
     "slug": "university-physics-2",
@@ -81,114 +57,861 @@
     "pages": [
       {
         "number": 1,
-        "src": "assets/physics-pages/page-01.png",
+        "src": "assets/physics-pages/page-01.png?v=c5b0e3f9561b",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 2,
-        "src": "assets/physics-pages/page-02.png",
+        "src": "assets/physics-pages/page-02.png?v=d9afa803d5d7",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 3,
-        "src": "assets/physics-pages/page-03.png",
+        "src": "assets/physics-pages/page-03.png?v=841841c1472f",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 4,
-        "src": "assets/physics-pages/page-04.png",
+        "src": "assets/physics-pages/page-04.png?v=276b4f0a526c",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 5,
-        "src": "assets/physics-pages/page-05.png",
+        "src": "assets/physics-pages/page-05.png?v=b4194aef3b18",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 6,
-        "src": "assets/physics-pages/page-06.png",
+        "src": "assets/physics-pages/page-06.png?v=3a9572378bc6",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 7,
-        "src": "assets/physics-pages/page-07.png",
+        "src": "assets/physics-pages/page-07.png?v=516cd8e42447",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 8,
-        "src": "assets/physics-pages/page-08.png",
+        "src": "assets/physics-pages/page-08.png?v=b44dc3ee1fe5",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 9,
-        "src": "assets/physics-pages/page-09.png",
+        "src": "assets/physics-pages/page-09.png?v=9ead8945b96b",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 10,
-        "src": "assets/physics-pages/page-10.png",
+        "src": "assets/physics-pages/page-10.png?v=d9da2a961657",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 11,
-        "src": "assets/physics-pages/page-11.png",
+        "src": "assets/physics-pages/page-11.png?v=26441251f942",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 12,
-        "src": "assets/physics-pages/page-12.png",
+        "src": "assets/physics-pages/page-12.png?v=695194cfe2bb",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 13,
-        "src": "assets/physics-pages/page-13.png",
+        "src": "assets/physics-pages/page-13.png?v=5b89a3b30803",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 14,
-        "src": "assets/physics-pages/page-14.png",
+        "src": "assets/physics-pages/page-14.png?v=60ba9816a336",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 15,
-        "src": "assets/physics-pages/page-15.png",
+        "src": "assets/physics-pages/page-15.png?v=5f62196ca76f",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 16,
-        "src": "assets/physics-pages/page-16.png",
+        "src": "assets/physics-pages/page-16.png?v=65486640631d",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 17,
-        "src": "assets/physics-pages/page-17.png",
+        "src": "assets/physics-pages/page-17.png?v=86c1de56d876",
         "width": 1489,
         "height": 2105
       },
       {
         "number": 18,
-        "src": "assets/physics-pages/page-18.png",
+        "src": "assets/physics-pages/page-18.png?v=f7a0929d1faa",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 19,
+        "src": "assets/physics-pages/page-19.png?v=ff1a07134c3c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 20,
+        "src": "assets/physics-pages/page-20.png?v=bc4d2f29e180",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 21,
+        "src": "assets/physics-pages/page-21.png?v=34411110cca3",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 22,
+        "src": "assets/physics-pages/page-22.png?v=7b1cbfd672f8",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 23,
+        "src": "assets/physics-pages/page-23.png?v=6ff8a8711510",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 24,
+        "src": "assets/physics-pages/page-24.png?v=2eafc6fb0f72",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 25,
+        "src": "assets/physics-pages/page-25.png?v=d622ec18b0e1",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 26,
+        "src": "assets/physics-pages/page-26.png?v=ef9f0ff17a23",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 27,
+        "src": "assets/physics-pages/page-27.png?v=f19ab67b009c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 28,
+        "src": "assets/physics-pages/page-28.png?v=acd4b60aed49",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 29,
+        "src": "assets/physics-pages/page-29.png?v=5cd690a7d186",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 30,
+        "src": "assets/physics-pages/page-30.png?v=741ce254a73a",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 31,
+        "src": "assets/physics-pages/page-31.png?v=32def24c401d",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 32,
+        "src": "assets/physics-pages/page-32.png?v=b0b30052e8c7",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 33,
+        "src": "assets/physics-pages/page-33.png?v=4bf0e4a0e131",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 34,
+        "src": "assets/physics-pages/page-34.png?v=fc322cb4c1c3",
         "width": 1489,
         "height": 2105
       }
     ],
-    "bytes": 676730,
-    "sizeLabel": "661 KB"
+    "bytes": 1012736,
+    "sizeLabel": "989 KB"
+  },
+  {
+    "slug": "advanced-mathematics",
+    "title": "高等数学",
+    "category": "数学",
+    "symbol": "∫",
+    "description": "整理高等数学学习过程中的概念、推导与笔记，供阅读、复习和交流。",
+    "pdf": "assets/advanced-mathematics.pdf",
+    "previewPrefix": "assets/advanced-pages/page",
+    "area": "science",
+    "type": "courses",
+    "pages": [
+      {
+        "number": 1,
+        "src": "assets/advanced-pages/page-001.png?v=ca98a519adb5",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 2,
+        "src": "assets/advanced-pages/page-002.png?v=f3ec5ac96c42",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 3,
+        "src": "assets/advanced-pages/page-003.png?v=81d8b9cad77a",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 4,
+        "src": "assets/advanced-pages/page-004.png?v=f81b3fe3352d",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 5,
+        "src": "assets/advanced-pages/page-005.png?v=3c9c27f99cb8",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 6,
+        "src": "assets/advanced-pages/page-006.png?v=32b7e3810583",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 7,
+        "src": "assets/advanced-pages/page-007.png?v=b2fce8a17e5a",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 8,
+        "src": "assets/advanced-pages/page-008.png?v=f897e17c8d57",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 9,
+        "src": "assets/advanced-pages/page-009.png?v=1ce305324c76",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 10,
+        "src": "assets/advanced-pages/page-010.png?v=e4967132ea7a",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 11,
+        "src": "assets/advanced-pages/page-011.png?v=3fb11d8dbd8b",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 12,
+        "src": "assets/advanced-pages/page-012.png?v=f7588de387f6",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 13,
+        "src": "assets/advanced-pages/page-013.png?v=36191198b87f",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 14,
+        "src": "assets/advanced-pages/page-014.png?v=0109b071a1a8",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 15,
+        "src": "assets/advanced-pages/page-015.png?v=0b6094aecc68",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 16,
+        "src": "assets/advanced-pages/page-016.png?v=96a159b8911c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 17,
+        "src": "assets/advanced-pages/page-017.png?v=87ff31db8390",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 18,
+        "src": "assets/advanced-pages/page-018.png?v=c5f0336d3967",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 19,
+        "src": "assets/advanced-pages/page-019.png?v=cb05f5e525d2",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 20,
+        "src": "assets/advanced-pages/page-020.png?v=33891e74b3ff",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 21,
+        "src": "assets/advanced-pages/page-021.png?v=b8eea6803375",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 22,
+        "src": "assets/advanced-pages/page-022.png?v=83ad126b0d53",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 23,
+        "src": "assets/advanced-pages/page-023.png?v=705c8e7bfbd9",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 24,
+        "src": "assets/advanced-pages/page-024.png?v=529536d74374",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 25,
+        "src": "assets/advanced-pages/page-025.png?v=9931174ce777",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 26,
+        "src": "assets/advanced-pages/page-026.png?v=11e920d8f206",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 27,
+        "src": "assets/advanced-pages/page-027.png?v=65dc74ca338a",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 28,
+        "src": "assets/advanced-pages/page-028.png?v=f14642ca41c4",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 29,
+        "src": "assets/advanced-pages/page-029.png?v=fb313b8448e8",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 30,
+        "src": "assets/advanced-pages/page-030.png?v=b1af32eb8d35",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 31,
+        "src": "assets/advanced-pages/page-031.png?v=865bc3f2d554",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 32,
+        "src": "assets/advanced-pages/page-032.png?v=2f46bd2b65f7",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 33,
+        "src": "assets/advanced-pages/page-033.png?v=dcafdf492bde",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 34,
+        "src": "assets/advanced-pages/page-034.png?v=2b01be5cc9ad",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 35,
+        "src": "assets/advanced-pages/page-035.png?v=9b329da7f190",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 36,
+        "src": "assets/advanced-pages/page-036.png?v=267ad241f3f4",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 37,
+        "src": "assets/advanced-pages/page-037.png?v=53ce5a724c9a",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 38,
+        "src": "assets/advanced-pages/page-038.png?v=429ad8af9de6",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 39,
+        "src": "assets/advanced-pages/page-039.png?v=0cfbb21474a9",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 40,
+        "src": "assets/advanced-pages/page-040.png?v=46db99bf89a0",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 41,
+        "src": "assets/advanced-pages/page-041.png?v=22476e55912f",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 42,
+        "src": "assets/advanced-pages/page-042.png?v=ad0d6c7c1410",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 43,
+        "src": "assets/advanced-pages/page-043.png?v=ba23a2cee281",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 44,
+        "src": "assets/advanced-pages/page-044.png?v=4d09313c6f4d",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 45,
+        "src": "assets/advanced-pages/page-045.png?v=8c38cd470fa4",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 46,
+        "src": "assets/advanced-pages/page-046.png?v=6e6beb3069b6",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 47,
+        "src": "assets/advanced-pages/page-047.png?v=5299b98b04d0",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 48,
+        "src": "assets/advanced-pages/page-048.png?v=6bdccd708222",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 49,
+        "src": "assets/advanced-pages/page-049.png?v=74d7c5017dd8",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 50,
+        "src": "assets/advanced-pages/page-050.png?v=3168612e1710",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 51,
+        "src": "assets/advanced-pages/page-051.png?v=2230e22ad650",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 52,
+        "src": "assets/advanced-pages/page-052.png?v=9ad2ccbcbcef",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 53,
+        "src": "assets/advanced-pages/page-053.png?v=3ed5f226ba11",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 54,
+        "src": "assets/advanced-pages/page-054.png?v=b1a881721108",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 55,
+        "src": "assets/advanced-pages/page-055.png?v=f1d362234703",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 56,
+        "src": "assets/advanced-pages/page-056.png?v=c22f47201e26",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 57,
+        "src": "assets/advanced-pages/page-057.png?v=850f07d414c1",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 58,
+        "src": "assets/advanced-pages/page-058.png?v=c1d9499ed585",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 59,
+        "src": "assets/advanced-pages/page-059.png?v=6e163652d5ee",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 60,
+        "src": "assets/advanced-pages/page-060.png?v=c143aa16d45c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 61,
+        "src": "assets/advanced-pages/page-061.png?v=06f830372042",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 62,
+        "src": "assets/advanced-pages/page-062.png?v=f5ea3403f107",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 63,
+        "src": "assets/advanced-pages/page-063.png?v=42d6623a0910",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 64,
+        "src": "assets/advanced-pages/page-064.png?v=e3e8f700ffc9",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 65,
+        "src": "assets/advanced-pages/page-065.png?v=6989aad86aa7",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 66,
+        "src": "assets/advanced-pages/page-066.png?v=7bf995d1523c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 67,
+        "src": "assets/advanced-pages/page-067.png?v=a5c0c7dc34fc",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 68,
+        "src": "assets/advanced-pages/page-068.png?v=110549388b5f",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 69,
+        "src": "assets/advanced-pages/page-069.png?v=bd0b4c938951",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 70,
+        "src": "assets/advanced-pages/page-070.png?v=e78909bdf822",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 71,
+        "src": "assets/advanced-pages/page-071.png?v=a098f3d84f2c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 72,
+        "src": "assets/advanced-pages/page-072.png?v=cd7becc6e80b",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 73,
+        "src": "assets/advanced-pages/page-073.png?v=0a6c49b92a45",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 74,
+        "src": "assets/advanced-pages/page-074.png?v=cc8338e3f9ef",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 75,
+        "src": "assets/advanced-pages/page-075.png?v=79ecbd40c650",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 76,
+        "src": "assets/advanced-pages/page-076.png?v=455ee1707f8e",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 77,
+        "src": "assets/advanced-pages/page-077.png?v=f28861a2c570",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 78,
+        "src": "assets/advanced-pages/page-078.png?v=fa051d092a22",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 79,
+        "src": "assets/advanced-pages/page-079.png?v=a590d45c8a13",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 80,
+        "src": "assets/advanced-pages/page-080.png?v=bf6495de407b",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 81,
+        "src": "assets/advanced-pages/page-081.png?v=c27dc27fc077",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 82,
+        "src": "assets/advanced-pages/page-082.png?v=7fb512435833",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 83,
+        "src": "assets/advanced-pages/page-083.png?v=b66688ec41c9",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 84,
+        "src": "assets/advanced-pages/page-084.png?v=bf240da894a9",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 85,
+        "src": "assets/advanced-pages/page-085.png?v=f1e2ae0fd9b5",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 86,
+        "src": "assets/advanced-pages/page-086.png?v=32216d33c148",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 87,
+        "src": "assets/advanced-pages/page-087.png?v=310e97122241",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 88,
+        "src": "assets/advanced-pages/page-088.png?v=feb569484edf",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 89,
+        "src": "assets/advanced-pages/page-089.png?v=2b3d3fcd2a4f",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 90,
+        "src": "assets/advanced-pages/page-090.png?v=2493e771802a",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 91,
+        "src": "assets/advanced-pages/page-091.png?v=185d8e9baa59",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 92,
+        "src": "assets/advanced-pages/page-092.png?v=152e7d24a25c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 93,
+        "src": "assets/advanced-pages/page-093.png?v=77af5d1d9ce3",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 94,
+        "src": "assets/advanced-pages/page-094.png?v=fdcb71368876",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 95,
+        "src": "assets/advanced-pages/page-095.png?v=edb4a05d5b71",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 96,
+        "src": "assets/advanced-pages/page-096.png?v=38ec6d3420c4",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 97,
+        "src": "assets/advanced-pages/page-097.png?v=00b88b0e5382",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 98,
+        "src": "assets/advanced-pages/page-098.png?v=95ec5a07696c",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 99,
+        "src": "assets/advanced-pages/page-099.png?v=eec8438bbbfc",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 100,
+        "src": "assets/advanced-pages/page-100.png?v=c515e0aa1b0b",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 101,
+        "src": "assets/advanced-pages/page-101.png?v=7689595892aa",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 102,
+        "src": "assets/advanced-pages/page-102.png?v=a9a3554a2f98",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 103,
+        "src": "assets/advanced-pages/page-103.png?v=3d0f37f83cd4",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 104,
+        "src": "assets/advanced-pages/page-104.png?v=3a72aeb066e6",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 105,
+        "src": "assets/advanced-pages/page-105.png?v=124c13f3c039",
+        "width": 1489,
+        "height": 2105
+      },
+      {
+        "number": 106,
+        "src": "assets/advanced-pages/page-106.png?v=85dfb37bdb3d",
+        "width": 1489,
+        "height": 2105
+      }
+    ],
+    "bytes": 669583,
+    "sizeLabel": "654 KB"
   }
 ]

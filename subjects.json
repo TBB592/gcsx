@@ -22,5 +22,17 @@
     "previewPrefix": "assets/physics-pages/page",
     "area": "science",
     "type": "courses"
+  },
+  {
+    "slug": "advanced-mathematics",
+    "title": "高等数学",
+    "category": "数学",
+    "symbol": "∫",
+    "description": "整理高等数学学习过程中的概念、推导与笔记，供阅读、复习和交流。",
+    "source": "Latax高等数学/高等数学.pdf",
+    "pdf": "assets/advanced-mathematics.pdf",
+    "previewPrefix": "assets/advanced-pages/page",
+    "area": "science",
+    "type": "courses"
   }
 ]

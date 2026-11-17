@@ -31,7 +31,7 @@ for(const s of subjects){
  const files=fs.readdirSync(path.dirname(prefix)).map(name=>({name,match:name.match(filePattern)})).filter(f=>f.match).sort((a,b)=>Number(a.match[1])-Number(b.match[1]));
  // The render command may leave obsolete pages when a PDF gets shorter. Include
  // only the actual PDF page count; verify one image exists for every page.
- s.pages=files.filter(f=>!count||Number(f.match[1])<=count).map(f=>{const data=fs.readFileSync(path.join(path.dirname(prefix),f.name));if(data.subarray(1,4).toString()!=='PNG')throw new Error('Invalid PNG');return {number:Number(f.match[1]),src:path.posix.join(path.posix.dirname(s.previewPrefix),f.name),width:data.readUInt32BE(16),height:data.readUInt32BE(20)};});
+ s.pages=files.filter(f=>!count||Number(f.match[1])<=count).map(f=>{const data=fs.readFileSync(path.join(path.dirname(prefix),f.name));if(data.subarray(1,4).toString()!=='PNG')throw new Error('Invalid PNG');return {number:Number(f.match[1]),src:path.posix.join(path.posix.dirname(s.previewPrefix),f.name)+'?v='+require('node:crypto').createHash('sha256').update(data).digest('hex').slice(0,12),width:data.readUInt32BE(16),height:data.readUInt32BE(20)};});
  if(!s.pages.length||s.pages.some((p,i)=>p.number!==i+1)||(count&&s.pages.length!==count))throw new Error('Missing page previews: '+s.title);
  s.bytes=fs.statSync(pdf).size;s.sizeLabel=Math.round(s.bytes/1024)+' KB';
 }
