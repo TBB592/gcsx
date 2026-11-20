@@ -3,3 +3,10 @@ Thumbs.db
 .env
 .env.*
 node_modules/
+
+.generated/
+.output/
+.cache/
+site/.vitepress/cache/
+site/.vitepress/dist/
+.content/
